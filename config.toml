@@ -1,0 +1,3 @@
+baseURL = "https://sots-hugo-sample.netlify.com/"
+languageCode = "ja-jp"
+title = "Hello, Netlify with Hugo"
