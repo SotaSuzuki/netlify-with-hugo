@@ -6,3 +6,5 @@ thumbnail: "/images/thumb_01.jpg"
 ---
 
 Hello, World!
+
+こんにちは
