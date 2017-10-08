@@ -7,4 +7,4 @@ thumbnail: "/images/thumb_01.jpg"
 
 Hello, World!
 
-こんにちは
+こんにちは世界。
